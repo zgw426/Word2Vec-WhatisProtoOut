@@ -107,7 +107,6 @@ target_word_list = [
     "アウトプット",
     "クラウドファンディング",
     "qiita",
-    "note",
 ]
 
 for target_word in target_word_list:
