@@ -68,7 +68,7 @@ whatisprotoout.py:129: DeprecationWarning: Call to deprecated `__getitem__` (Met
 
 ■ おまけ
 
-Windows環境で`scikit-learn`がインストールできないときは以下サイトが役に立つかも
+Windows環境で`scikit-learn`がインストールできないときはこのサイトが役に立つかも
 https://scikit-learn.org/stable/install.html#error-caused-by-file-path-length-limit-on-windows
 
 
